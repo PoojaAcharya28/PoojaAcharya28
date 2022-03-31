@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Pooja H Acharya and I'm a student at Sahyadri college of Engineering and Management.
+
 <!--
 **PoojaAcharya28/PoojaAcharya28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
